@@ -2,7 +2,8 @@
 
 # 👋 Hey! 
 
-I'm [**Tahir Zaman**](https://my-porfolio-ten-bice.vercel.app/), Web-Developer @ [IcreativeZ](https://www.icreativez.com/), Also doing Bachelors in Data Science from [Quest University](https://quest.edu.pk/), I have done courses like  , CS50Web and CS50x from Harvard University in 2024. 
+I'm [**Tahir Zaman**](https://my-porfolio-ten-bice.vercel.app/), Web-Developer @ [IcreativeZ](https://www.icreativez.com/), Also doing Bachelors in Data Science from [Quest University](https://quest.edu.pk/),
+I have completed the Microsoft Full-Stack Developer professional course offered by Microsoft on Coursera. 
 
 ---
 
