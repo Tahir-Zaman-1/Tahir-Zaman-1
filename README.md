@@ -9,7 +9,7 @@ I have completed the [**Microsoft Full-Stack Developer**](https://www.coursera.o
 
 ## 🌟 About Me
 
-I’m from Sindh, Nawabshah, and currently pursuing my **Bachelor’s degree in Data Science** at QUEST. I have a strong passion for **technology and innovation**, inspired by my family’s values of curiosity, learning, and creativity.
+I’m from Sindh, Nawabshah, and currently pursuing my **Bachelor’s degree in Data Science** at [QUEST](https://quest.edu.pk/). I have a strong passion for **technology and innovation**, inspired by my family’s values of curiosity, learning, and creativity.
 
 I am hardworking, self-motivated, and always eager to learn. My long-term goal is to build a strong career in **Data Science, AI, Machine Learning, Data Engineering, and Full Stack Development**, while contributing to innovative projects and organizations.
 
