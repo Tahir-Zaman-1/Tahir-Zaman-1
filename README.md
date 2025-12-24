@@ -6,17 +6,17 @@ I'm [**Tahir Zaman**](https://my-porfolio-ten-bice.vercel.app/), Web-Developer @
 I have completed the [**Microsoft Full-Stack Developer**](https://www.coursera.org/account/accomplishments/professional-cert/P6I9JHQUK6TJ) professional course offered by Microsoft on Coursera. 
 
 ---
-🌟 About Me
+## 🌟 About Me
 
-I’m from Nawabshah, Sindh, and currently pursuing a Bachelor’s degree in Data Science at QUEST. I’m deeply passionate about technology and innovation, shaped by a strong foundation of curiosity, continuous learning, and creative thinking.
+I’m from **Nawabshah, Sindh**, and currently pursuing a **Bachelor’s degree in Data Science** at [QUEST](https://quest.edu.pk/). I’m deeply passionate about **technology and innovation**, shaped by a strong foundation of curiosity, continuous learning, and creative thinking.
 
 I enjoy exploring ideas that sit at the intersection of logic and creativity—turning concepts into practical solutions through code and data.
 
-Interests include:
- 💡 Building and experimenting with innovative tech solutions
-📚 Learning about self-discipline, psychology, personal growth, and Deep Work
-🎧 Listening to music to stay focused and inspired
-🛠️ Creating projects in web development and machine learning
+**Interests include:**
+- 💡 Building and experimenting with innovative tech solutions  
+- 📚 Learning about self-discipline, psychology, personal growth, and *Deep Work*  
+- 🎧 Listening to music to stay focused and inspired  
+- 🛠️ Creating projects in **web development** and **machine learning**
 ---
 
 ## 🧠 Current Focus
