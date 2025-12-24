@@ -22,10 +22,8 @@ I enjoy exploring ideas that sit at the intersection of logic and creativity—t
 ## 🧠 Current Focus
 
 *   🎓 5th semester (3rd year) of the Data Science program
-*   🛠️ Developing expertise in **Artificial Intelligence & Machine Learning**
+*   🛠️ Developing expertise in **Web Development & Machine Learning**
 *   💻 Learning **Mathematics, Python, and Machine Learning libraries**
-*   🌱 Exploring **scikit-learn and data-driven solutions**
-
 ---
 
 ## 📂 Projects & Works Hub
